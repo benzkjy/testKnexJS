@@ -1,0 +1,16 @@
+{
+  "name": "testknex",
+  "version": "1.0.0",
+  "description": "test and try knexjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Khajornyot.bz",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.20.4",
+    "mssql": "^6.0.1"
+  }
+}
