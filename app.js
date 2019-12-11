@@ -26,7 +26,7 @@ async function createTable() {
 const insertUser = () => {
   const users = [
     { name: "Audi", age: "32" }
-    // { name: "Mercedes", age: "35" },
+    { name: "Mercedes", age: "35" },
     // { name: "Jame", age: "24" },
     // { name: "Mose", age: "62" },
     // { name: "Benz", age: "73" },
