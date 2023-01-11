@@ -10,7 +10,7 @@
   "author": "Khajornyot.bz",
   "license": "ISC",
   "dependencies": {
-    "knex": "^0.20.4",
+    "knex": "^2.4.0",
     "mssql": "^6.0.1"
   }
 }
